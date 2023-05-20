@@ -1,4 +1,4 @@
 # Table HW 1
 
 
-![Data](/tableHW1.jpg)
+![Data](/HW1/tableHW1.jpg)
